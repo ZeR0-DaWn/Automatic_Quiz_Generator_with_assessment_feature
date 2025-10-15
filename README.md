@@ -1,4 +1,4 @@
-# Automatic Quiz Generator with Assessment Featuree
+# Automatic Quiz Generator with Assessment Feature
 
 ## Overview
 
