@@ -23,13 +23,13 @@ This project is a desktop application developed in Python that automatically gen
 ## How to Run
 
 1.  Clone the repository:
-    bash
+    ```bash
     git clone https://github.com/ZeR0-DaWn/Automatic_Quiz_Generator_with_assessment_feature.git
     
 2.  Install the required dependencies:
-    bash
+    ```bash
     pip install -r requirements.txt
     
 3.  Run the application:
-    bash
+    ```bash
     python main.py
